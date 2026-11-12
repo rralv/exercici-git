@@ -1,0 +1,5 @@
+* 4a9f450 Afegir modul
+| * 7a76ac6 Afegir contacte
+|/  
+* 93e769b Afegir gitignore
+* cac26b6 Primer commit
